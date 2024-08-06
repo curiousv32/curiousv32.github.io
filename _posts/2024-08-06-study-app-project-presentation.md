@@ -63,6 +63,11 @@ The primary users of Assemble are post-secondary students who need an organized 
 
 Several aspects of our development process went well. The integration of various functionalities into a single app worked smoothly, providing a cohesive user experience. The team effectively managed tasks and deadlines, leading to a successful completion of the project. The database integration was successful thanks to Runyu Fang's efforts, and we were able to use HSQLDB smoothly. The profile management and logout features were enhanced based on iterative feedback. Additionally, the UI components were well-designed and interactive, thanks to the focused efforts on front-end development. Our use of static websites for presentations provided a professional and clear way to showcase our work.
 
+## Architecture Diagram
+
+![Architecture Diagram](/assets/images/architecture.png)
+
+
 ### What Went Wrong
 
 Despite our successes, we faced several challenges. Integrating the back-end with the front-end proved to be more complex than anticipated, leading to delays and the need for extensive debugging. Miscommunication within the team sometimes led to redundant work or misaligned goals.
