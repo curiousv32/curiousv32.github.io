@@ -38,3 +38,10 @@ To serve the site locally, use the following command:
 ```sh
 bundle exec jekyll s
 ```
+
+## Live Presentation Site
+
+You can view the live presentation site directly at the following link:
+
+[Assemble App Project Presentation](https://curiousv32.github.io/posts/study-app-project-presentation/)
+
