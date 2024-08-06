@@ -43,5 +43,5 @@ bundle exec jekyll s
 
 You can view the live presentation site directly at the following link:
 
-[Assemble App Project Presentation](https://curiousv32.github.io/)
+[Assemble App Project Presentation](https://curiousv32.github.io/posts/study-app-project-presentation/)
 
