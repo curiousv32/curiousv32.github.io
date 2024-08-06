@@ -53,9 +53,14 @@ The primary users of Assemble are post-secondary students who need an organized 
 - **Tasks:** Led the implementation of user interface features, including profile settings, and logout functionalities. Developed and improved UI components for home page and user profile. Created the presentation site for the project.
 - **Skills Gained:** Enhanced skills in UI/UX design, front-end development, and integration of interactive elements. Gained experience in implementing and testing complex UI components in Android. Acquired skills in creating and configuring static websites for presentations.
 
+
 ## Screen Recording
 
-[Embed or link to the screen recording demonstrating the features of the app]
+<video controls width="100%">
+  <source src="/assets/videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Postmortem of Development Experience
 
