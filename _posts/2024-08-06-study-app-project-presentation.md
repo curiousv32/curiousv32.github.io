@@ -9,6 +9,8 @@ tags: [study app, team assemble, project presentation, development process, user
 
 Assemble is a comprehensive mobile application designed to support post-secondary students in managing their academic and personal tasks. It integrates note-taking, study tools, and task management into one platform, streamlining students' study routines and enhancing their productivity.
 
+**GitHub Repository:** [Assemble Project on GitHub](https://github.com/curiousv32/Assemble)
+
 ## Vision Statement
 
 Assemble aims to be a unified mobile application for students to handle their study and personal tasks efficiently. By integrating features such as note-taking, study aids, and task lists, it seeks to provide a seamless and efficient solution to manage academic responsibilities.
